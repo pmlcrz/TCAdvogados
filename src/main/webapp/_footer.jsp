@@ -3,7 +3,6 @@
 	<div style="text-align: center !important">&copy; 2023 TC Advogados</div>
 	<hr>
 
-	<!-- JavaScript (Opcional) -->
 	<!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 	<script
