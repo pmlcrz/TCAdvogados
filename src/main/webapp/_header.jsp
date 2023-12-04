@@ -11,7 +11,7 @@
 
 <style>
 body {
-	background-color: #CEDBEA;
+	background-color: #B0C4DE;
 }
 
 nav {
