@@ -21,7 +21,7 @@ nav {
 
 .wrapper {
 	height: 30vh;
-	/*This part is important for centering*/
+	/*para centralizar*/
 	display: grid;
 	place-items: center;
 }
