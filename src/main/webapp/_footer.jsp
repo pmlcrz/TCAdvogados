@@ -1,8 +1,6 @@
 
 	<hr>
-	<div>
-	<h6>@ 2023 - TC Advogados</h6>
-	</div>
+	<div style="text-align: center !important">&copy; 2023 TC Advogados</div>
 	<hr>
 
 	<!-- JavaScript (Opcional) -->
