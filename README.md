@@ -7,7 +7,7 @@ Aplicativo em Java (CRUD) onde é possível:
 - Editar os dados
 - Excluir os dados
 
-Ferramentas utilizadas no projeto:
+Linguagens e ferramentas utilizadas no projeto:
 
 - ☕ JAVA
 - 🌗 Eclipse
